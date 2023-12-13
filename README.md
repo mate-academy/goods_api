@@ -127,5 +127,3 @@ API Endpoints
         *   **Message:** `"Color not found"`
 
 * * *
-
-You can copy and paste this text directly into your `README.md` file.
